@@ -57,10 +57,10 @@
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="jWeljsY6ZEOZgANQX7LwSQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">252</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">500</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">368</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">32</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">512</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">965</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">238</XPD:ATTR>
 <XPD:REF name="Model">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="K49CFj2Vbk+qGsbevpdVKwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="rWgrSq0btU2wOziA167DHgAA">
@@ -88,10 +88,10 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="HOAB83gF5UKoE1DqDnFcBgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">292</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">196</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">289</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">238</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">208</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">192</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">652</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">251</XPD:ATTR>
 <XPD:REF name="Model">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="ur/TI33kBk2C1lEVCRXFBQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="ZoqcSJoqo0SxPJQHl6U8LgAA">
@@ -119,7 +119,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLGeneralizationView" guid="IKPYn9u68Ea5Y19TqGCm/gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">435,500;435,433</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">521,512;525,442</XPD:ATTR>
 <XPD:REF name="Model">GN7HU/fSK02Gpb5qhO5ZtgAA</XPD:REF>
 <XPD:REF name="Head">HOAB83gF5UKoE1DqDnFcBgAA</XPD:REF>
 <XPD:REF name="Tail">jWeljsY6ZEOZgANQX7LwSQAA</XPD:REF>
@@ -145,9 +145,9 @@
 <XPD:OBJ name="OwnedViews[3]" type="UMLClassView" guid="vz4i1J4ROkC5uh4wN6YOOgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">380</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">56</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">115</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">464</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">52</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">138</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:REF name="Model">kW5MNMs/kESnuzBk/ipUvAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="fqzk/Z7wl0myWkR/DXexmAAA">
@@ -176,7 +176,7 @@
 <XPD:OBJ name="OwnedViews[4]" type="UMLRealizationView" guid="yje6YU+kw0CjWy83n6tA+wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">437,196;437,124</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">532,192;532,120</XPD:ATTR>
 <XPD:REF name="Model">FBxZzl4Pt0q9MTJHvESOXgAA</XPD:REF>
 <XPD:REF name="Head">vz4i1J4ROkC5uh4wN6YOOgAA</XPD:REF>
 <XPD:REF name="Tail">HOAB83gF5UKoE1DqDnFcBgAA</XPD:REF>
@@ -212,17 +212,124 @@
 <XPD:REF name="Views[3]">UA9pOHnMcUGtLdNVKkdR2gAA</XPD:REF>
 <XPD:ATTR name="#Generalizations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Generalizations[0]">GN7HU/fSK02Gpb5qhO5ZtgAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">5</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="yrsr6jQ1rk6NdLaxB3+MBQAA">
+<XPD:ATTR name="Name" type="string">setSessionAttributeStore</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="dI7FXmazjkCDRq7qGLxHgQAA">
+<XPD:ATTR name="Name" type="string">sessionAttributeStore</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">yrsr6jQ1rk6NdLaxB3+MBQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="jLPVF1emDk+32tk14qZKeQAA">
+<XPD:ATTR name="Name" type="string">setErrorPage</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="sJDQaEEMdEOswVmv1eRrNQAA">
+<XPD:ATTR name="Name" type="string">errorPage</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">jLPVF1emDk+32tk14qZKeQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[2]" type="UMLOperation" guid="Jv8C6E3xN0S/BIfb0Xj9ewAA">
+<XPD:ATTR name="Name" type="string">authorize</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="sUSSsLX8hk6kPvSWmtZg6AAA">
+<XPD:ATTR name="Name" type="string">model</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">Jv8C6E3xN0S/BIfb0Xj9ewAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="i14uLT2i4kaQm11gg/Fj/gAA">
+<XPD:ATTR name="Name" type="string">parameters</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">Jv8C6E3xN0S/BIfb0Xj9ewAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="N+bhGv0grUWYVoUJwsOCWgAA">
+<XPD:ATTR name="Name" type="string">sessionStatus</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">Jv8C6E3xN0S/BIfb0Xj9ewAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="4FvoGcScMEiRXUNpBZX+kAAA">
+<XPD:ATTR name="Name" type="string">principal</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">Jv8C6E3xN0S/BIfb0Xj9ewAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="B7io17DfQkWGNwngexdtHQAA">
+<XPD:ATTR name="Name" type="string">Map&lt;String, Object&gt; unmodifiableMap</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPackage</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="0jQtjGzOnkCM2ewXpvh/WwAA">
+<XPD:ATTR name="Name" type="string">authorizationRequest</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">B7io17DfQkWGNwngexdtHQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[4]" type="UMLOperation" guid="7palFg3HgkOH6FjSC6T6OAAA">
+<XPD:ATTR name="Name" type="string">View approveOrDeny</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:ATTR name="#Attributes" type="integer">10</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="xBZoos3wykqoMEGG8xqYmwAA">
 <XPD:ATTR name="Name" type="string">AUTHORIZATION_REQUEST_ATTR_NAME</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">static</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">&quot;authorizationRequest&quot;</XPD:ATTR>
 <XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="b4iPm/LkKUqbVWB/RKxG4QAA">
 <XPD:ATTR name="Name" type="string">ORIGINAL_AUTHORIZATION_REQUEST_ATTR_NAME</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">static</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">&quot;org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint.ORIGINAL_AUTHORIZATION_REQUEST&quot;</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="YHmo2imXSE+JWvvnAocKBAAA">
+<XPD:ATTR name="Name" type="string">authorizationCodeServices</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new InMemoryAuthorizationCodeServices()</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="QocfcUYzHkqd6+9HlTy+wAAA">
+<XPD:ATTR name="Name" type="string">redirectResolver</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new DefaultRedirectResolver()</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="e+y5W0E2MUqGtppe+lMPdwAA">
+<XPD:ATTR name="Name" type="string">userApprovalHandler</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new DefaultUserApprovalHandler()</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="yUsXzokeAk6WZTt9DTQGuwAA">
+<XPD:ATTR name="Name" type="string">sessionAttributeStore</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new DefaultSessionAttributeStore()</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="49zbVqCvr0aGiKGFJXT4KQAA">
+<XPD:ATTR name="Name" type="string">oauth2RequestValidator</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new DefaultOAuth2RequestValidator()</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[7]" type="UMLAttribute" guid="svrFjhbFOEGBS7eHFnBZVwAA">
+<XPD:ATTR name="Name" type="string">userApprovalPage</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">&quot;forward:/oauth/confirm_access&quot;</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[8]" type="UMLAttribute" guid="zaPl73DjFkC/tE2tcgSNyQAA">
+<XPD:ATTR name="Name" type="string">errorPage</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">&quot;forward:/oauth/error&quot;</XPD:ATTR>
+<XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[9]" type="UMLAttribute" guid="XjjEKX/U5UiyZq+hU+BncwAA">
+<XPD:ATTR name="Name" type="string">implicitLock</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new Object()</XPD:ATTR>
 <XPD:REF name="Owner">jSQAZNzzD0aDCKGt4CC2EwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -238,17 +345,22 @@
 <XPD:REF name="ClientDependencies[0]">FBxZzl4Pt0q9MTJHvESOXgAA</XPD:REF>
 <XPD:ATTR name="#Specializations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Specializations[0]">GN7HU/fSK02Gpb5qhO5ZtgAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">9</XPD:ATTR>
-<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="NduMsIvVJEG5RR9M97PF8AAA">
-<XPD:ATTR name="Name" type="string">setProviderExceptionHandler</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">10</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="pYnFVyYgP0GeKcL40rnueAAA">
+<XPD:ATTR name="Name" type="string">void afterPropertiesSet</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">override</XPD:ATTR>
+<XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="NduMsIvVJEG5RR9M97PF8AAA">
+<XPD:ATTR name="Name" type="string">void setProviderExceptionHandler</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="DKM6eWSy5EKGLFbo9MDsKwAA">
-<XPD:ATTR name="Name" type="string">providerExceptionHandler</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">providerExceptionHandler:WebResponseExceptionTranslator&lt;OAuth2Exception&gt;</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">NduMsIvVJEG5RR9M97PF8AAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="PaWqMsSEcU+FjC5gQWuGbwAA">
+<XPD:OBJ name="Operations[2]" type="UMLOperation" guid="PaWqMsSEcU+FjC5gQWuGbwAA">
 <XPD:ATTR name="Name" type="string">setTokenGranter</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -257,27 +369,27 @@
 <XPD:REF name="BehavioralFeature">PaWqMsSEcU+FjC5gQWuGbwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[2]" type="UMLOperation" guid="vSwOeDLKLkeNXBAFC0EI1AAA">
+<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="vSwOeDLKLkeNXBAFC0EI1AAA">
 <XPD:ATTR name="Name" type="string">getTokenGranter</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="11z923zWakOMx5qkG3bSlgAA">
+<XPD:OBJ name="Operations[4]" type="UMLOperation" guid="11z923zWakOMx5qkG3bSlgAA">
 <XPD:ATTR name="Name" type="string">getExceptionTranslator</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[4]" type="UMLOperation" guid="vadU961MpUSB2/n3D+pv/AAA">
+<XPD:OBJ name="Operations[5]" type="UMLOperation" guid="vadU961MpUSB2/n3D+pv/AAA">
 <XPD:ATTR name="Name" type="string">getOAuth2RequestFactory</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[5]" type="UMLOperation" guid="o3WdfLE4GkOv4rOyACc7GAAA">
+<XPD:OBJ name="Operations[6]" type="UMLOperation" guid="o3WdfLE4GkOv4rOyACc7GAAA">
 <XPD:ATTR name="Name" type="string">getDefaultOAuth2RequestFactory</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[6]" type="UMLOperation" guid="27Ya8ifk/U+LArmmyBA7NwAA">
+<XPD:OBJ name="Operations[7]" type="UMLOperation" guid="27Ya8ifk/U+LArmmyBA7NwAA">
 <XPD:ATTR name="Name" type="string">setOAuth2RequestFactory</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -286,12 +398,12 @@
 <XPD:REF name="BehavioralFeature">27Ya8ifk/U+LArmmyBA7NwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[7]" type="UMLOperation" guid="s1aLUP0FjEGQDFl/ALKorgAA">
+<XPD:OBJ name="Operations[8]" type="UMLOperation" guid="s1aLUP0FjEGQDFl/ALKorgAA">
 <XPD:ATTR name="Name" type="string">getClientDetailsService</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[8]" type="UMLOperation" guid="9KdL/nskwku/CA7DFu4TFwAA">
+<XPD:OBJ name="Operations[9]" type="UMLOperation" guid="9KdL/nskwku/CA7DFu4TFwAA">
 <XPD:ATTR name="Name" type="string">setClientDetailsService</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -302,32 +414,35 @@
 </XPD:OBJ>
 <XPD:ATTR name="#Attributes" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="ol2IWnJu1kGQHQ0L+o0/6wAA">
-<XPD:ATTR name="Name" type="string">logger</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">logger:Log</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">final</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">LogFactory.getLog(getClass())</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="GLsMOvGe2kOafpSnlu36fAAA">
-<XPD:ATTR name="Name" type="string">providerExceptionHandler</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">providerExceptionHandler:WebResponseExceptionTranslator&lt;OAuth2Exception&gt;</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:ATTR name="InitialValue" type="string">new DefaultWebResponseExceptionTranslator()</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="Xg9Sbege4k6gtmiHY5ssXwAA">
-<XPD:ATTR name="Name" type="string">tokenGranter</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">tokenGranter:TokenGranter</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="g+fQfSsXYUO8Do0QsP4NbwAA">
-<XPD:ATTR name="Name" type="string">clientDetailsService</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">clientDetailsService:ClientDetailsService</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="kWolkz3JZ0++eFd9DNFdvwAA">
-<XPD:ATTR name="Name" type="string">oAuth2RequestFactory</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">oAuth2RequestFactory:OAuth2RequestFactory</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="N4R5SISxoUqWTrhIfYQ00QAA">
-<XPD:ATTR name="Name" type="string">defaultOAuth2RequestFactory</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">defaultOAuth2RequestFactory:OAuth2RequestFactory</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">U3rdszE+n0STgU16SW/5hQAA</XPD:REF>
 </XPD:OBJ>
@@ -355,7 +470,8 @@
 <XPD:REF name="SupplierDependencies[0]">FBxZzl4Pt0q9MTJHvESOXgAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="wrw3ourrTEGKPYCwU5+/vQAA">
-<XPD:ATTR name="Name" type="string">afterPropertiesSet</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">void afterPropertiesSet</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPackage</XPD:ATTR>
 <XPD:REF name="Owner">kW5MNMs/kESnuzBk/ipUvAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
